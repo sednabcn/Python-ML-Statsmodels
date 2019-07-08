@@ -7,5 +7,3 @@ Machine Learning Algorithms Simulation Prediction Classificarion Regression Stat
 The package contains:
 
 simleng.py -API GenLogitclass.py --Genlogistic cdf, pdf and Loglikelihood function corresponding to this function metrics_classifier_statsmodels.py --Metrics to evaluate the performance of classification models simulation_statsmodels.py -- the core of computational program tools.py -Tools that aid to computation and simulation PimasNov132018.wmv---Numerical results of all tests applied to Pima Indias Dataset
-
-
